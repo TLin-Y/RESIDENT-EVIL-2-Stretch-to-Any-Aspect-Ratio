@@ -5,7 +5,7 @@ Why?
 
 1. Install
    
-Extract the mod files directly into your Monster Hunter Rise root folder (where re2.exe is located).
+Extract the mod files directly into your game root folder (where re2.exe is located).
 
 2. For SteamOS / Winlator (Wine Users)
    
